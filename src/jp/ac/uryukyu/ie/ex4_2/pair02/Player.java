@@ -2,7 +2,7 @@ package jp.ac.uryukyu.ie.ex4_2.pair02;
 
 import java.io.*;
 
-public class Player extends Maze {
+public class Player {
     File inFile = new File("/Users/jaejinan/IdeaProjects/prog2_ex4/doc", "map.txt");
     int i=0;
     int j=0;
