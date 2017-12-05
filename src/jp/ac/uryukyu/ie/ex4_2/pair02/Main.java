@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args){
-        File inFile = new File("/Users/jaejinan/IdeaProjects/prog2_ex4/doc", "map.txt");
+        File inFile = new File("/Users/jaejinan/IdeaProjects/prog2_ex4_2nd/doc", "map.txt");
         Maze maze = new Maze();
         Walk player = new Walk();
         maze.printMaze(inFile);

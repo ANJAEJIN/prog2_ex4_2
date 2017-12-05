@@ -3,7 +3,7 @@ package jp.ac.uryukyu.ie.ex4_2.pair02;
 import java.io.*;
 
 public class Player {
-    File inFile = new File("/Users/jaejinan/IdeaProjects/prog2_ex4/doc", "map.txt");
+    File inFile = new File("/Users/jaejinan/IdeaProjects/prog2_ex4_2nd/doc", "map.txt");
     int i=0;
     int j=0;
     int [][] informnum= new int[2][2];
